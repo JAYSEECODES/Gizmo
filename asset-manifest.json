@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Gizmo/static/css/main.b4d9ff43.css",
-    "main.js": "/Gizmo/static/js/main.aa089c2e.js",
+    "main.css": "/Gizmo/static/css/main.039078ac.css",
+    "main.js": "/Gizmo/static/js/main.b62a4484.js",
     "static/js/125.2f2594dc.chunk.js": "/Gizmo/static/js/125.2f2594dc.chunk.js",
     "static/media/versus.png": "/Gizmo/static/media/versus.1ee0d7d02aa64795ff6c.png",
     "static/media/fortnite.otf": "/Gizmo/static/media/fortnite.855d754e53e004037bf1.otf",
@@ -9,12 +9,12 @@
     "static/media/gizmo_preview.png": "/Gizmo/static/media/gizmo_preview.19f023989771b4ba0251.png",
     "static/media/bmd-logo.svg": "/Gizmo/static/media/bmd-logo.e1fae9d139e0ccc0297148b7796c386e.svg",
     "index.html": "/Gizmo/index.html",
-    "main.b4d9ff43.css.map": "/Gizmo/static/css/main.b4d9ff43.css.map",
-    "main.aa089c2e.js.map": "/Gizmo/static/js/main.aa089c2e.js.map",
+    "main.039078ac.css.map": "/Gizmo/static/css/main.039078ac.css.map",
+    "main.b62a4484.js.map": "/Gizmo/static/js/main.b62a4484.js.map",
     "125.2f2594dc.chunk.js.map": "/Gizmo/static/js/125.2f2594dc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4d9ff43.css",
-    "static/js/main.aa089c2e.js"
+    "static/css/main.039078ac.css",
+    "static/js/main.b62a4484.js"
   ]
 }
