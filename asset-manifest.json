@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Gizmo/static/css/main.039078ac.css",
-    "main.js": "/Gizmo/static/js/main.8fe6e3e4.js",
+    "main.js": "/Gizmo/static/js/main.d063aacc.js",
     "static/js/125.2f2594dc.chunk.js": "/Gizmo/static/js/125.2f2594dc.chunk.js",
     "static/media/versus.png": "/Gizmo/static/media/versus.1ee0d7d02aa64795ff6c.png",
     "static/media/fortnite.otf": "/Gizmo/static/media/fortnite.855d754e53e004037bf1.otf",
@@ -10,11 +10,11 @@
     "static/media/bmd-logo.svg": "/Gizmo/static/media/bmd-logo.e1fae9d139e0ccc0297148b7796c386e.svg",
     "index.html": "/Gizmo/index.html",
     "main.039078ac.css.map": "/Gizmo/static/css/main.039078ac.css.map",
-    "main.8fe6e3e4.js.map": "/Gizmo/static/js/main.8fe6e3e4.js.map",
+    "main.d063aacc.js.map": "/Gizmo/static/js/main.d063aacc.js.map",
     "125.2f2594dc.chunk.js.map": "/Gizmo/static/js/125.2f2594dc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.039078ac.css",
-    "static/js/main.8fe6e3e4.js"
+    "static/js/main.d063aacc.js"
   ]
 }
